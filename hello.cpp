@@ -9,20 +9,14 @@ int main(){
 
   char name[100];
   cin >> name;
-  cout << "Hello" << name << endl;
-}
-
-void sayHello(const char* name){
-  cout < 
+  cout << Hello
 }
 
 
 
-jbkjev;;
 
 
-
-CIAOOIXB
+jbkjev;
 
 
 
